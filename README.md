@@ -1,3 +1,2 @@
 # pankaj-demo
-Git Practice
-this is my first program
+Git Practice this is my first program
